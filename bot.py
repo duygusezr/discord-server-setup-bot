@@ -59,7 +59,7 @@ async def create_channels_and_roles(guild):
 
     categories = {
         "📢 | General": ["📢announcements", "👋welcome", "📜rules", "💬general-chat", "🎮game-recommendations", "🔗resources", "📅events", "💼job-listings"],
-        "🛠 | Infected Soul Project": ["💡ideas", "📜story-lore", "🎭character-design", "🎮gameplay-mechanics", "🛠programming", "🤖artificial-intelligence", "🗺️level-design", "🎥cinematics-animation"],
+        "🛠 | Project": ["💡ideas", "📜story-lore", "🎭character-design", "🎮gameplay-mechanics", "🛠programming", "🤖artificial-intelligence", "🗺️level-design", "🎥cinematics-animation"],
         "🎨 | Art & Visual Design": ["🎨concept-art", "🖌3D-modeling", "🎭character-world-design", "🎨UI-UX-design"],
         "🔊 | Sound & Music": ["🎼game-music", "🎤sound-effects"],
         "🎮 | Playtesting & Debugging": ["🎮playtesting", "🐛bug-reports"],
